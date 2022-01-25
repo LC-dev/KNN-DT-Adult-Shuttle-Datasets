@@ -3,12 +3,12 @@
 ## Project Status
 Completed 🙌
 ## Table of Contents
-[Project Objectives](#objectives)
-[Methods](#methods)
-[Technologies](#tech)
-[Results](#results)
-[Setup](#setup)
-[Credits](#cred)
+.[Project Objectives](#objectives)
+.[Methods](#methods)
+.[Technologies](#tech)
+.[Results](#results)
+.[Setup](#setup)
+.[Credits](#cred)
 
 <a name="objectives"></a>
 <a name="methods"></a>
