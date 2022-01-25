@@ -3,8 +3,8 @@
 ## Project Status
 Completed 🙌
 ## Table of Contents
-1. [Project Objectives](#objectives)
-2. [Methods](#methods)
+-[Project Objectives](#objectives)
+[Methods](#methods)
 3. [Technologies](#tech)
 4. [Results](#results)
 5. [Setup](#setup)
