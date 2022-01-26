@@ -25,10 +25,10 @@ First ML project!
 Explore preprocessing of the data, the effect of hyperparameters, size of the dataset, and performing model selection.
 
 ## Methods
-*Data preprocessing
-*Data visualization
-*Hyperparameter tuning
-*Model selection
+* Data preprocessing
+* Data visualization
+* Hyperparameter tuning
+* Model selection
 
 ## Technologies
 *Python 3.7.12
