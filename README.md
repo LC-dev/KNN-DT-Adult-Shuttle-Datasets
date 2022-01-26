@@ -1,10 +1,10 @@
 # KNN-DT-Adult-Shuttle-Datasets
 
-## Project Status
+## Project Status 🕒
 
 Completed 🙌
 
-## Table of Contents
+## Table of Contents 📜
 
 * [Project Objectives](#objectives)
 * [Methods](#methods)
@@ -20,17 +20,20 @@ Completed 🙌
 <a name="setup"></a>
 <a name="cred"></a>
 
-## Project Objectives
+## Project Objectives ✅ 
+
 First ML project!
 Explore preprocessing of the data, the effect of hyperparameters, size of the dataset, and performing model selection.
 
-## Methods
+## Methods ✍️
+
 * Data preprocessing
 * Data visualization
-* Hyperparameter tuning
+* Hyperparameter tuning (5-fold cross-validation)
 * Model selection
 
-## Technologies
+## Technologies 💻
+
 * Python 3.7.12
 * sklearn
 * numpy
@@ -38,9 +41,29 @@ Explore preprocessing of the data, the effect of hyperparameters, size of the da
 * matplotlib
 * scipy
 
-## Results
-* Adult dataset: 
-  *
-## Main takeaways
-## Setup
-## Credits
+## Results 📈
+
+Optimal models found for:
+* Adult dataset 
+  ** KNN: 85.2% accuracy, unweighted K=21, non-normalized data
+  ** DT: 86.1% accuracy, maximum_depth=10, Gini index, non-normalized data
+* Shuttle dataset
+  ** KNN: 99.9% accuracy, weighted K=6, both normalized and non-normalized
+  ** DT: 99.9% accuracy, max_depth=6, Entropy, both normalized and non-normalized data
+
+## Setup 👩‍💻
+
+* Download notebook and datasets
+* Insert datasets and notebook in the same folder
+
+## Variables ⌨️
+```
+dataset1_train = pd.read_csv('insert path of adult_train.csv',...)
+dataset1_test = pd.read_csv('insert path of adult_test.csv',...)
+dataset2_trn_full = pd.read_csv('insert path of shuttle_trn.csv',...)
+dataset2_test = pd.read_csv('insert path of shuttle_tst.csv',...)
+```
+
+## Credits 🏅
+
+Thank you to my amazing team for working on this project! 
