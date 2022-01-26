@@ -6,12 +6,12 @@ Completed 🙌
 
 ## Table of Contents
 
-*[Project Objectives](#objectives)
-*[Methods](#methods)
-*[Technologies](#tech)
-*[Results](#results)
-*[Setup](#setup)
-*[Credits](#cred)
+* [Project Objectives](#objectives)
+* [Methods](#methods)
+* [Technologies](#tech)
+* [Results](#results)
+* [Setup](#setup)
+* [Credits](#cred)
 
 <a name="objectives"></a>
 <a name="methods"></a>
@@ -31,16 +31,16 @@ Explore preprocessing of the data, the effect of hyperparameters, size of the da
 * Model selection
 
 ## Technologies
-*Python 3.7.12
-*sklearn
-*numpy
-*pandas
-*matplotlib
-*scipy
+* Python 3.7.12
+* sklearn
+* numpy
+* pandas
+* matplotlib
+* scipy
 
 ## Results
-*Adult dataset
-
+* Adult dataset: 
+  *
 ## Main takeaways
 ## Setup
 ## Credits
