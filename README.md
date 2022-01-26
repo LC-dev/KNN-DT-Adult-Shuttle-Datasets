@@ -53,8 +53,8 @@ Optimal models found for:
 
 ## Setup 👩‍💻
 
-* Download ```results.ipynb```,```data``` & dependencies
-* Insert datasets and notebook in the same folder
+* Clone this repo
+* Install dependencies if needed
 * Run the notebook
 
 ## Variables ⌨️
