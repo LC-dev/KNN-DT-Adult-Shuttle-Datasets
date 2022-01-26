@@ -45,11 +45,11 @@ Explore preprocessing of the data, the effect of hyperparameters, size of the da
 
 Optimal models found for:
 * Adult dataset 
-  ** KNN: 85.2% accuracy, unweighted K=21, non-normalized data
-  ** DT: 86.1% accuracy, maximum_depth=10, Gini index, non-normalized data
+  * KNN: 85.2% accuracy, unweighted K=21, non-normalized data
+  * DT: 86.1% accuracy, maximum_depth=10, Gini index, non-normalized data
 * Shuttle dataset
-  ** KNN: 99.9% accuracy, weighted K=6, both normalized and non-normalized
-  ** DT: 99.9% accuracy, max_depth=6, Entropy, both normalized and non-normalized data
+  * KNN: 99.9% accuracy, weighted K=6, both normalized and non-normalized
+  * DT: 99.9% accuracy, max_depth=6, Entropy, both normalized and non-normalized data
 
 ## Setup 👩‍💻
 
