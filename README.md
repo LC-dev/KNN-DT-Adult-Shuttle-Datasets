@@ -23,6 +23,7 @@ Completed 🙌
 ## Project Objectives ✅ 
 
 First ML project!
+
 Machine learning models that predict whether a given adult’s salary is > $50K, and the type of control to apply on a given shuttle.
 Explore preprocessing of the data, the effect of hyperparameters, size of the dataset, and performing model selection.
 
